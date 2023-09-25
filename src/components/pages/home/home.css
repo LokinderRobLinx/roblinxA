@@ -1,0 +1,111 @@
+/* import homeImg from "../assets/robHomeImg.webp"; */
+
+.header-color{
+  color: #6F90F4;
+}
+.col-md-4A {
+  flex: 0 0 auto;
+  /* width: 33.33333333%; */
+}
+
+.header{
+    background-image: url(../../assets/robimg1.jpg);
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    margin-top: 0%;
+    height: 40vh;
+} 
+.header {
+  display: flex;
+  padding: 48px;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+}
+
+.image-box {
+    text-align: center;
+    height: 400px;
+    width: 400px;
+}
+.image-box{
+    text-align: center;
+}
+
+.serviceh2 {
+    justify-content: center;
+  align-items: end !important;
+  text-align: start;
+}
+
+.pA{
+    margin-bottom: 0;
+}
+
+
+.features .box {
+    padding: 50px;
+    /* width: 500px; */
+    height: 350px;
+  }
+  .features .box2 {
+    padding: 50px;
+  }
+  .features .box h2 {
+    margin: 10px 0;
+  }
+  .features .box p {
+    word-spacing: 2px;
+    transition: 0.5s;
+  }
+  .features .box i {
+    font-size: 30px;
+    margin-top: 20px;
+    transition: 0.5s;
+    opacity: 0;
+  }
+  .features .box:hover p {
+    color: black;
+  }
+  .features .box:hover i {
+    color: black;
+    opacity: 1;
+  }
+
+  
+
+
+
+
+  
+  .btn_shadow {
+    padding: 10px;
+    border-radius: 6px;
+    transition: 0.3s all ease;
+    cursor: pointer;
+    color: #000;
+    transition: 0.5s;
+    background: linear-gradient(145deg, #e2e8ec, #ffffff);
+    box-shadow: 4px 4px 8px #cbcbcb, -4px -4px 8px #ffffff;
+    border-radius: 10px;
+  }
+  .btn_shadow:hover {
+    background: #fffaf2;
+    color: black;
+    transform: translateY(-10px);
+    cursor: default;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 35px;
+  }
+  .top {
+    /* margin-top: 80px; */
+    padding-top: 50px;
+  }
+  .containerA {
+    max-width: 90%;
+    margin: auto;
+  }

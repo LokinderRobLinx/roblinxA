@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72128928.css",
+    "main.js": "/static/js/main.5dcc9630.js",
+    "static/media/robimg1.jpg": "/static/media/robimg1.b4faad135d819b2deb7c.jpg",
+    "static/media/robimg2.jpg": "/static/media/robimg2.5c760f5a546bd14d25d0.jpg",
+    "static/media/contact.png": "/static/media/contact.a8a4359dbc205c0b953a.png",
+    "static/media/backImg.jpg": "/static/media/backImg.fac6f86cd45fcfd5010c.jpg",
+    "static/media/Python.png": "/static/media/Python.3ace3f1f42c1d978fa58.png",
+    "static/media/Wordpress.png": "/static/media/Wordpress.015fdf45c4fedb4ba7e1.png",
+    "static/media/PHP.png": "/static/media/PHP.9fd4d77c3abbcfa48094.png",
+    "static/media/React.png": "/static/media/React.6a5ce199cf9037d2ad64.png",
+    "static/media/Roblinx PNG.png": "/static/media/Roblinx PNG.29bf0a51131dbee453a3.png",
+    "static/media/RobLinx Fevicon.png": "/static/media/RobLinx Fevicon.7b8a616c8c6a52a5835e.png",
+    "static/media/filosophy.png": "/static/media/filosophy.873f6da64832bb8f99a3.png",
+    "static/media/robHomeImg.webp": "/static/media/robHomeImg.ce6110d04ed22c3740ea.webp",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/index.html",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "main.72128928.css.map": "/static/css/main.72128928.css.map",
+    "main.5dcc9630.js.map": "/static/js/main.5dcc9630.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72128928.css",
+    "static/js/main.5dcc9630.js"
+  ]
+}
